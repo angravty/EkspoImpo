@@ -1,0 +1,8 @@
+{
+  "appId": "com.eksporimpor.game",
+  "appName": "Ekspor Impor",
+  "webDir": "www",
+  "android": {
+    "backgroundColor": "#0f1419"
+  }
+}

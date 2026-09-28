@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Ekspor Impor</string>
+    <string name="title_activity_main">Ekspor Impor</string>
+    <string name="package_name">com.eksporimpor.game</string>
+    <string name="custom_url_scheme">com.eksporimpor.game</string>
+</resources>
